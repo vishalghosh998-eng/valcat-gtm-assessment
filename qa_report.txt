@@ -1,0 +1,26 @@
+────────────────────────────────────────────────────────────
+  LEADS PROCESSING — QA REPORT
+────────────────────────────────────────────────────────────
+  Input file   : leads_raw.csv
+  Output file  : send_ready.csv
+────────────────────────────────────────────────────────────
+  Total input rows   :   26
+  Total output rows  :   16
+  Total excluded     :   10
+────────────────────────────────────────────────────────────
+  Exclusions by reason:
+    !  1  Email missing or blank
+    !  2  First name missing or blank
+    !  3  Email domain in suppression list
+    !  2  Employees blank / non-numeric / out of range (250–10 000)
+       0  Generic inbox email
+    !  1  Free consumer email provider (gmail / yahoo / hotmail / outlook)
+       0  Title does not match ICP
+    !  1  Duplicate email address (case-insensitive), kept first occurrence
+────────────────────────────────────────────────────────────
+  Reconciliation : 16 + 10 = 26  (expected 26)
+  Result         : OK ✓
+────────────────────────────────────────────────────────────
+  Warnings — rows included but need review:
+  ⚠  Alan Frisk (Sundstrand Distribution) — email @keeleylogistics.com ≠ company_domain sundstrand-dist.com
+────────────────────────────────────────────────────────────
