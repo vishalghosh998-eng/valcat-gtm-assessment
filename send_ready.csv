@@ -1,0 +1,21 @@
+first_name,last_name,title,company,company_domain,email,linkedin_url,employees,segment,description,source
+Dana,Whitfield,VP Operations,Corveth Logistics,corveth.com,dana.whitfield@corveth.com,linkedin.com/in/danawhitfield,780,mid_3pl,Regional 3PL running six DCs across the Midwest,zoominfo
+Marcus,Oyelaran,Director of Distribution,Halvern Supply,halvernsupply.com,m.oyelaran@halvernsupply.com,linkedin.com/in/moyelaran,1450,mid_3pl,Contract logistics and retail distribution,zoominfo
+Ines,Guzman,IT Director,Trellick Cold Storage,trellickcold.com,i.guzman@trellickcold.com,linkedin.com/in/inesguzman,610,cold_chain,"Temperature-controlled storage and distribution.
+Operates four facilities on the Gulf Coast.",zoominfo
+Priya,Nandakumar,VP Supply Chain,Ashgrove Foods,ashgrovefoods.com,priya.nandakumar@ashgrovefoods.com,linkedin.com/in/priyanandakumar,2400,cold_chain,Frozen and chilled food distribution,zoominfo
+Alan,Frisk,Director of Warehouse Ops,Sundstrand Distribution,sundstrand-dist.com,a.frisk@keeleylogistics.com,linkedin.com/in/alanfrisk,1100,distributor,Industrial parts distribution,apollo
+Sofia,Marchetti-Lund,Director of Distribution,Kestrel Provisions,kestrelprov.com,s.marchetti@kestrelprov.com,linkedin.com/in/sofiamarchettilund,1650,distributor,"Foodservice distribution across eleven states.
+Runs its own fleet.",zoominfo
+Bo,Tran,IT Director,Alderfell Cold Logistics,alderfell.com,bo.tran@alderfell.com,linkedin.com/in/botran,720,cold_chain,Cold storage and blast freezing,apollo
+Renata,Ostojic,VP Supply Chain,Pike and Halloran,pikehalloran.com,r.ostojic@pikehalloran.com,linkedin.com/in/renataostojic,2100,distributor,Industrial and MRO distribution,zoominfo
+Curtis,Ebanks,Director of Operations,Wexmoor 3PL,wexmoor3pl.com,c.ebanks@wexmoor3pl.com,linkedin.com/in/curtisebanks,4400,mid_3pl,"Contract logistics, 3PL and freight brokerage.
+Eighteen distribution centres in North America.",zoominfo
+Mira,Anand,Head of Warehouse Systems,Thornbury Foods,thornburyfoods.com,mira.anand@thornburyfoods.com,linkedin.com/in/miraanand,3100,cold_chain,Chilled and ambient food logistics,zoominfo
+Del,Passmore,COO,Ganton Freight Services,gantonfreight.com,d.passmore@gantonfreight.com,linkedin.com/in/delpassmore,990,mid_3pl,Regional freight and warehousing,apollo
+Yuki,Sarnoff,VP Operations,Loxley Distribution,loxleydist.com,y.sarnoff@loxleydist.com,linkedin.com/in/yukisarnoff,1280,distributor,Consumer goods distribution,zoominfo
+Ade,Fagbemi,Director of Distribution,Cardew Provisions,cardewprov.com,a.fagbemi@cardewprov.com,linkedin.com/in/adefagbemi,2750,distributor,Foodservice and hospitality distribution,zoominfo
+Tobias,Vreeland,IT Director,Merrowfield Logistics,merrowfield.com,t.vreeland@merrowfield.com,linkedin.com/in/tobiasvreeland,5600,enterprise_3pl,"Contract logistics and supply chain services.
+Serves automotive and industrial clients.",apollo
+Beth,Okonjo,VP Operations,Stanmere Cold Chain,stanmerecold.com,b.okonjo@stanmerecold.com,linkedin.com/in/bethokonjo,1340,cold_chain,Cold chain warehousing and transport,zoominfo
+Ivan,Prochazka,Head of Fulfilment,Dunmoor Supply Co,dunmoorsupply.com,i.prochazka@dunmoorsupply.com,linkedin.com/in/ivanprochazka,830,distributor,Wholesale supply and distribution,apollo
